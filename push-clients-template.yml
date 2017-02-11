@@ -1,0 +1,7 @@
+Playground:
+  url: testapp1.example.com
+  ssh-key: ~/.ssh/sample-key.pem
+
+iFact:
+  url: testapp2.example.com
+  ssh-key: ~/.ssh/sample-key.pem
